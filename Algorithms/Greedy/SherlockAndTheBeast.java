@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem
 import java.io.*;
 import java.util.*;
 import java.lang.StringBuilder;
